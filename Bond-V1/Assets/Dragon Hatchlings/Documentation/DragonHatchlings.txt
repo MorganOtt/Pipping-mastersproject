@@ -1,0 +1,12 @@
+Dragon Hatchlings pack
+
+Requires Unity 2017.4.0f1 or higher.
+
+Dragon Hatchlings pack is a pack of juvenile dragons that just hatched. 
+
+The pack includes a prefab of a dragon with 3 diferent textures. With a walk, jump, jump-fly and idle animation 
+the model has  3 unique hand painted defuse textures and a normal texture, with a dimension of 2048x2048. 
+the model has 5,916 faces.
+
+You have 3 diferent textures to chose from. A feisty black dragon a femenine white dragon and the neutral green dragon.
+
